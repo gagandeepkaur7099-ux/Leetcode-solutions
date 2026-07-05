@@ -1,4 +1,4 @@
-oman to Integer
+Roman to Integer
 Problem
 Given a Roman numeral, convert it into an integer.
 
